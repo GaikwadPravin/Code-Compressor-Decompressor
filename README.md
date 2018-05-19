@@ -25,6 +25,6 @@ Priority for different formats:
 
 ### Note
 
-Please use parameters "1" and "2" to indicate compression, and decompression respectively.\n
+Please use parameters "1" and "2" to indicate compression, and decompression respectively.<br />
 ./SIM 1 for compression <br />
 ./SIM 2 for decompression <br />  	
