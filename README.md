@@ -14,3 +14,10 @@ Priority for different formats:
 5. 2-bit mismatch anywhere
 6. Direct matching
 7. Original binary
+
+###Files Included
+
+SIM.c     	 - Code compression and decompression logic using dictionary based encoding techniques.
+original.txt - This file contains input instructions.
+cout.txt     - This file has the expected compressed output.
+dout.txt     - This file has the expected decompressed output after decompression.
