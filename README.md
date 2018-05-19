@@ -15,7 +15,7 @@ Priority for different formats:
 6. Direct matching
 7. Original binary
 
-###Files Included
+### Files Included
 
 SIM.c     	 - Code compression and decompression logic using dictionary based encoding techniques.
 original.txt - This file contains input instructions.
