@@ -17,7 +17,14 @@ Priority for different formats:
 
 ### Files Included
 
-SIM.c     	 - Code compression and decompression logic using dictionary based encoding techniques.
-original.txt - This file contains input instructions.
-cout.txt     - This file has the expected compressed output.
-dout.txt     - This file has the expected decompressed output after decompression.
+* SIM.c     	 - Code compression and decompression logic using dictionary based encoding techniques.
+* original.txt   - This file contains input instructions for compression.
+* cout.txt       - This file has the expected compressed output.
+* dout.txt       - This file has the expected decompressed output.
+* compressed.txt - This file contains input binaries for decompression.  
+
+### Note
+
+Please use parameters "1" and "2" to indicate compression, and decompression respectively.\n
+./SIM 1 for compression \n
+./SIM 2 for decompression \n  	
